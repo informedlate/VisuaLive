@@ -1,5 +1,4 @@
-{
-    "name": "visualive",
+{    "name": "visualive",
     "version": "0.1.0",
     "description": "Web-based music visualization platform with AI-powered preset generation",
     "private": true,
@@ -24,7 +23,7 @@
           "tailwind-merge": "^2.2.0",
           "zustand": "^4.4.0",
           "axios": "^1.6.0",
-          "three": "^r157"
+          "three": "^0.157.0"
     },
     "devDependencies": {
           "@types/node": "^20.0.0",
@@ -36,7 +35,7 @@
           "autoprefixer": "^10.4.0",
           "@tailwindcss/forms": "^0.5.6",
           "prettier": "^3.0.0",
-          "@types/three": "^r157",
+          "@types/three": "^0.157.0",
           "eslint": "^8.50.0",
           "eslint-config-next": "^14.0.0"
     },
