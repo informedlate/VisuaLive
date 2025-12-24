@@ -9,5 +9,4 @@ export default function SettingsPage() {
                                       <p className="text-gray-300">Settings page coming soon...</p>p>
                             </div>div>
                     </div>div>
-              </div>div>
             );
