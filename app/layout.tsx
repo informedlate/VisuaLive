@@ -16,6 +16,6 @@ export default function RootLayout({
                 <body className="dark bg-bg-primary">
                   {children}
                 </body>body>
-          </html>html>
+          </html>
             )
 }        
